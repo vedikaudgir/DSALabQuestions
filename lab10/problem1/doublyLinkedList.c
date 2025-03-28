@@ -1,3 +1,6 @@
+//WAP in C to implement doubly linked list.
+//Author - Vedika Udgir
+
 #include <stdio.h>
 #include <stdlib.h>
 
