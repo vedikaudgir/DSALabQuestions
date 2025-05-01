@@ -24,6 +24,7 @@ int maxOfTwo(int a, int b)
 {
     int max;
     max = a > b ? a : b;
+    return max;
 }
 
 int maxInArray(int a[], int n)
