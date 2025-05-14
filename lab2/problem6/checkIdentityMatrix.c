@@ -1,3 +1,6 @@
+//Program to check whether a matrix is identity matrix or not.
+//Author - Vedika Udgir 
+
 #include <stdio.h>
 #include <stdbool.h>
 
